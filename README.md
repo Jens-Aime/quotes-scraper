@@ -20,7 +20,7 @@ Ein Python-Web-Scraper, der Zitate, Autoren und Tags von der Webseite [Quotes to
 ### 2. Projekt klonen
 Klonen Sie dieses Repository lokal:
 
-git clone https://github.com/dein_github_username/quotes-web-scraper.git
+git clone https://github.com/Jens-Aime/quotes-scraper.git
 cd quotes-web-scraper
 3. Abhängigkeiten installieren
 Erstellen Sie eine virtuelle Umgebung und installieren Sie die benötigten Pakete:
